@@ -1,3 +1,3 @@
 streamlit
 pandas
-spellchecker
+git clone https://github.com/barrust/pyspellchecker.git
